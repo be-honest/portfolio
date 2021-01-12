@@ -104,6 +104,8 @@ input, select, textarea {
 	h1{
 		font-family: 'Cinzel', serif;
 	}
+
+	.postion{font-size: 12pt;}
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
